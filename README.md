@@ -12,7 +12,7 @@ Para que se vea el intercambio de mensajes entre las dos máquinas, el programa 
 - la respuesta del servidor (código de estado, tiempo, headers y cuerpo).
 - el resultado final (texto y tokens).
 
-La API key se lee de un archivo `.env` para no dejarla en el código, y se muestra parcialmente oculta.
+La API key se lee de un archivo `.env` (por ejemplo, `GROQ_API_KEY=tu_api_key`) para no dejarla en el código, y se muestra parcialmente oculta.
 
 ## Funciones
 
