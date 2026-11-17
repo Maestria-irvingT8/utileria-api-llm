@@ -3,3 +3,4 @@ historial.jsonl
 __pycache__/
 .vscode/
 *.docx
+.venv/
